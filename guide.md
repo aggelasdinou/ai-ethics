@@ -31,21 +31,21 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 *Icon made by SwissCognitive from [https://swisscognitive.ch](https://swisscognitive.ch/2023/04/19/ai-ethics-in-focus-balancing-innovation-security-and-responsibility-swisscognitive-ai-radar/)*
 
 ## Introduction
-This document focuses on **AI and Ethics**,a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure,safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
+	This document focuses on **AI and Ethics**,a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure,safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
 
 ## Ethical Concerns
 
 ### Bias and Fairness
-AI systems often learn from historical data, which may contain biases reflecting societal inequalities. If not addressed, these biases can perpetuate discrimination and unfairness, affecting individuals' opportunities and rights.
+	AI systems often learn from historical data, which may contain biases reflecting societal inequalities. If not addressed, these biases can perpetuate discrimination and unfairness, affecting individuals' opportunities and rights.
 
 ### Privacy
-The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
+	The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
 
 - **Surveillance**
 	The use of AI models to monitor humans for purposes such as security and marketing. The latter can easily resolve to problems regarding abuse of power by some individuals that may even use the technology for political reasons based on their beliefs or affiliations.
 
 - **Consent**
-  The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they dont know the insides of the AI models used by the private company/ organization?
+	The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they dont know the insides of the AI models used by the private company/ organization?
 
 <p align="center">
   <img width="200" src="media/AI/privacy.png" alt="">
@@ -54,10 +54,10 @@ The vast amounts of data required for AI applications raise concerns about priva
 *Icon made by deemakdaksina from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Accountability and Transparency
-The opacity of AI decision-making processes poses challenges for accountability. It can be difficult to understand how and why AI systems make decisions, making it challenging to assign responsibility in case of errors or harm. Ensuring transparency and explainability in AI algorithms is crucial for accountability and trust.
+	The opacity of AI decision-making processes poses challenges for accountability. It can be difficult to understand how and why AI systems make decisions, making it challenging to assign responsibility in case of errors or harm. Ensuring transparency and explainability in AI algorithms is crucial for accountability and trust.
 
 ### Job Displacement
-Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
+	Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
 
 <p align="center">
   <img width="200" src="media/AI/job.png" alt="">
@@ -66,10 +66,10 @@ Automation driven by AI has the potential to disrupt labor markets, leading to j
 *Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Autonomous Weapons
-The development of autonomous weapons powered by AI raises serious ethical questions about the delegation of lethal decision-making to machines. Concerns include the potential for unintended consequences, civilian harm, and the erosion of moral responsibility in warfare.
+	The development of autonomous weapons powered by AI raises serious ethical questions about the delegation of lethal decision-making to machines. Concerns include the potential for unintended consequences, civilian harm, and the erosion of moral responsibility in warfare.
 
 ### Algorithmic Transparency
-The frequent lack of transparency in algorithmic design, creates major concerns when it comes to the interests and the motives of the creators. The development of AI by various companies often contains the danger of system manipulation, in order to address external motives. This could potentially lead to incidents of discrimination, or inability to mitigate bias.
+	The frequent lack of transparency in algorithmic design, creates major concerns when it comes to the interests and the motives of the creators. The development of AI by various companies often contains the danger of system manipulation, in order to address external motives. This could potentially lead to incidents of discrimination, or inability to mitigate bias.
 
 <p align="center">
   <img width="200" src="media/AI/algorithm.png" alt="">
@@ -78,7 +78,7 @@ The frequent lack of transparency in algorithmic design, creates major concerns 
 *Icon made by Eucalyp from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Data Modification
-After the data fitting process, modifying or removing data in the training set can be a very complex request. An organization that discovers its model was trained on inaccurate data may face substantial repercussions that can be hard to undo.
+	After the data fitting process, modifying or removing data in the training set can be a very complex request. An organization that discovers its model was trained on inaccurate data may face substantial repercussions that can be hard to undo.
 
 <p align="center">
   <img width="200" src="media/AI/data.png" alt="">
@@ -87,7 +87,7 @@ After the data fitting process, modifying or removing data in the training set c
 *Icon made by monkik from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Environmental Impact
-Training AI models requires immense amounts of resources and significant computational power. The process leads to vast energy consumption and burning of fossil fuels. Subsequently, the carbon emissions result in significant environmental pollution, making the deployment of the models a resource-intensive procedure.
+	Training AI models requires immense amounts of resources and significant computational power. The process leads to vast energy consumption and burning of fossil fuels. Subsequently, the carbon emissions result in significant environmental pollution, making the deployment of the models a resource-intensive procedure.
 
 <p align="center">
   <img width="200" src="media/AI/green-earth.png" alt="">
@@ -116,31 +116,31 @@ Central to the Recommendation that UNESCO has proposed are four core values whic
 ## Ethical Principles for AI Development
 
 ### Fairness and Equity
-Developers should strive to mitigate biases and ensure fairness in AI systems by employing techniques such as bias detection and mitigation algorithms, as well as using diverse and representative datasets to train AI models.
+	Developers should strive to mitigate biases and ensure fairness in AI systems by employing techniques such as bias detection and mitigation algorithms, as well as using diverse and representative datasets to train AI models.
 
 ### Privacy and Data Protection
-AI developers must prioritize privacy by implementing robust data protection measures, obtaining informed consent for data collection and usage, and anonymizing data whenever possible. Respecting individuals' privacy rights is essential for maintaining trust in AI technologies.
+	AI developers must prioritize privacy by implementing robust data protection measures, obtaining informed consent for data collection and usage, and anonymizing data whenever possible. Respecting individuals' privacy rights is essential for maintaining trust in AI technologies.
 
 ### Transparency and Explainability
-AI systems should be designed to be transparent and explainable, allowing users to understand how decisions are made. Providing explanations for AI decisions enhances trust and accountability, enabling users to assess the reliability and fairness of AI systems.
+	AI systems should be designed to be transparent and explainable, allowing users to understand how decisions are made. Providing explanations for AI decisions enhances trust and accountability, enabling users to assess the reliability and fairness of AI systems.
 
 ### Accountability
-Clear lines of accountability should be established for AI systems, ensuring that developers, deployers, and users are responsible for their actions and decisions. Implementing mechanisms for auditing and oversight can help hold accountable parties accountable for any harm caused by AI systems.
+	Clear lines of accountability should be established for AI systems, ensuring that developers, deployers, and users are responsible for their actions and decisions. Implementing mechanisms for auditing and oversight can help hold accountable parties accountable for any harm caused by AI systems.
 
 ### Societal Impact
-Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions.
+	Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions.
 
 ### Interpretability
-AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.
+	AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.
 
 ### Human agency and oversight
-Ethical principles for AI development emphasize the importance of human-centered design, ensuring that AI systems assist humans in decision-making while preserving the ability for humans to override decisions made by the system. This approach prioritizes the empowerment of users and acknowledges the limitations of AI technology, emphasizing the need for human judgment and intervention when necessary.
-
+	Ethical principles for AI development emphasize the importance of human-centered design. Despite the remarkable advancements in AI, it remains imperative to integrate human oversight. This entails crafting AI systems assist humans in decision-making in accordance with their goals and objectives, while preserving the ability for humans to override decisions made by the system. This approach prioritizes the empowerment of users and acknowledges the limitations of AI technology, emphasizing the need for human judgment and intervention when necessary. This fusion of AI assistance with human judgment not only enhances the efficacy of AI systems but also safeguards against potential errors or biases that may arise.In other words, AI systems should not compromise human autonomy. Therefore, governance mechanisms should be in place alongside thorough and rigorous testing procedures.
+ 
 ### Technical robustness and safety
-AI system providers and developers are responsible for designing AI systems that function effectively, predictably, and safely. It is imperative for AI providers to ensure that their systems adhere to quality management standards, guaranteeing reliability and compliance with established protocols.
+	AI system providers and developers are responsible for designing AI systems that function effectively, predictably and safely. It is imperative for AI providers to ensure that their systems adhere to quality management standards, guaranteeing reliability and compliance with established protocols.
 
 ### Social and environmental well-being
-Developers of AI systems should design their creations to foster sustainable and inclusive growth, promote social progress, and enhance environmental well-being. Providers must carefully assess the societal and environmental implications of AI systems, prioritizing responsible innovation that benefits both people and the planet.
+	Developers of AI systems should design their creations to foster sustainable and inclusive growth, promote social progress, and enhance environmental well-being. Providers must carefully assess the societal and environmental implications of AI systems, prioritizing responsible innovation that benefits both people and the planet.
 
 ## References
 1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
