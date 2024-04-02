@@ -150,5 +150,6 @@ Developers of AI systems should design their creations to foster sustainable and
 5. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
 6. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
 7. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
-8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
-9. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
+8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
+9. Staff, C. (2024). "AI Ethics: What It Is and Why It Matters."
+10. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
